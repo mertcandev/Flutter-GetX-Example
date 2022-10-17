@@ -64,12 +64,12 @@ This app demonstrates the usage of GetX in a Flutter App.
 
 <div align="center">
   <a href="https://github.com/mertcandev/Flutter-GetX-Example">
-    <img src="img/ss1.png" alt="Screenshot" width="700" height="320">
-    <img src="img/ss2.png" alt="Screenshot" width="700" height="320">
-    <img src="img/ss3.png" alt="Screenshot" width="700" height="320">
-    <img src="img/ss4.png" alt="Screenshot" width="700" height="320">
-    <img src="img/ss5.png" alt="Screenshot" width="700" height="320">
-    <img src="img/ss6.png" alt="Screenshot" width="700" height="320">
+    <img src="img/ss1.png" alt="Screenshot" width="320" height="700">
+    <img src="img/ss2.png" alt="Screenshot" width="320" height="700">
+    <img src="img/ss3.png" alt="Screenshot" width="320" height="700">
+    <img src="img/ss4.png" alt="Screenshot" width="320" height="700">
+    <img src="img/ss5.png" alt="Screenshot" width="320" height="700">
+    <img src="img/ss6.png" alt="Screenshot" width="320" height="700">
 
     
     
